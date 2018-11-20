@@ -1,0 +1,4 @@
+<Morse_params n_types="1" label="Cu">
+<!-- Morse potential for Cu from De Wette et al Physics Letters vol 23, p309 (1966) -->
+  <pair atnum_i="29" atnum_j="29" r0="2.6163" D="0.16156" alpha="2.0926" />
+</Morse_params>
